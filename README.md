@@ -38,7 +38,6 @@ Shader files are located in `Assets/Shaders/MyLit/`.
 
 ## References
 
-- [Ned Makes Games](https://www.youtube.com/@NedMakesGames) — Unity URP shader tutorials
 - [KayKit](https://kaylousberg.itch.io/) by Kay Lousberg — Barbarian model and texture (CC0)
 
 Built with Unity URP and HLSL.
